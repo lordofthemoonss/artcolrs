@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artesanías Coloridas</title>
+    <style>
+        body {
+        }
+        header {
+            background-color: #08B8CA;
+            padding: 20px;
+            text-align: center;
+            color: #204;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: 
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: #324;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 40px;
+            padding: 20px;
+            background-color: #fff;
+            
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #08B8CA;
+            color: #204;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        h2 {
+            color: #666;
+        }
+        .colorido {
+            color: #52B99D; /* Color para texto destacado */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Artesanías Coloridas</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre-mi"><section id="sobre-mi">
+    <h2>Sobre Nosotros</h2>
+    <p>Bienvenidos a <span class="colorido">Artesanías Coloridas</span>, un lugar donde la creatividad y la tradición se unen para dar vida a piezas únicas y llenas de carácter. Cada uno de nuestros productos es cuidadosamente elaborado a mano por artesanos locales que ponen su corazón y alma en cada creación.</p>
+    
+    <p>En <span class="colorido">Artesanías Coloridas</span>, creemos que cada artículo cuenta una historia. Desde nuestros coloridos collares hasta los elegantes jarrones de cerámica, cada pieza refleja la riqueza de nuestras raíces y el talento de nuestros artistas. Nos esforzamos por ofrecer no solo productos, sino experiencias que conecten a nuestros clientes con la esencia de la artesanía.</p>
+    
+    <p>Te invitamos a explorar nuestra colección y descubrir la magia de las <span class="colorido">Artesanías Coloridas</span>. ¡Gracias por ser parte de nuestro viaje!</p>
+</section>
+</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="sobre-mi">
+
+        <section id="productos">
+            <h2>Productos</h2>
+            <ul>
+                
+                
+        <li>
+            <h3>Collares Artesanales: Con diseños únicos y coloridos.</h3>
+                <p>collar de cuentas coloridas y conchas</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_853184-MLV76204769692_052024-O.webp><p>
+                <p>Collar de concha y cuentas</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_848018-MLV76204320806_052024-O.webp>
+                <p>Collar artesanal de cristales y mostacilla</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_733219-MLV76225716584_052024-O.webp>
+                <p>Collar de mostacilla y conchas</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_779913-MLV76202687124_052024-O.webp>
+                <p>Collar de conchas y cuentas</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_988064-MLV76212733580_052024-O.webp>
+                <p>Collar artesanal de conchas y cuentas</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_968680-MLV76202687304_052024-O.webp>
+        </li>
+        <li>
+            <h3>Jarrones de Cerámica: Hechos a mano con técnicas artesanales, perfectos para decorar tu hogar.</h3>
+            <p>Jarron de ceramica minimalista blanco</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_855509-MLV50939574079_072022-O.webp>
+            <p>Jarron decorativo azul</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_840229-MLV85449628371_052025-O.webp>
+            <p>Florero de pprcelana Unter Weiss Bach blanco</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_817971-MLV81622383113_122024-O.webp>
+        </li>
+        <li>
+            <h3>Cuadernos Decorativos: Perfectos para tus notas y dibujos. </h3>
+            <p>libreta de apuntes de stich</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_981823-MLV82354606424_022025-O.webp>
+            <p>libreta de resorte tipo agenda tapa duro con detalles dorados</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_907123-MLV76780679754_062024-O.webp>
+            <p>libreta de resorte tapa dura</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_951762-MLV72139446524_102023-O.webp>
+            
+            <h4>Aretes personalizados: Para que siempre luzcas única con todos tus diseños.</h4>
+            <p>Aretes a presión de tanjiro de demon slayer</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_600484-MLV76051073810_052024-O.webp>
+            <p>Aretes de cereza</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_750502-MLV75751979818_042024-O.webp>
+            <p>Aretes de Zoro Roronoa de one piece</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_634399-MLV80227361155_102024-O.webp>
+            <p>Aretes de halloween de espinas de pescados</p>
+            <img src=https://http2.mlstatic.com/D_NQ_NP_874556-MLV79581001796_102024-O.webp>
+        </li>
+                
+                
+    </ul>
+</section>
+
+        </section>
+
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <form action="#" method="post">
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="mensaje">Mensaje:</label>
+                <textarea id="mensaje" name="mensaje" required></textarea>
+
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Artesanías Coloridas. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
